@@ -1,0 +1,6 @@
+{
+  "name": "Stitch Chess - Grandmaster Edition",
+  "description": "Aplicación web interactiva y jugable de ajedrez competitivo entre Stitch y AI Grandmaster con piezas Staunton de alta precisión, reglas oficiales FIDE, reloj digital y análisis táctico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
